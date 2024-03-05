@@ -1,18 +1,22 @@
-This is a "plain language" contract template for a freelance web developer, based on the Stuff & Nonsense Ltd. Killer Contract.
+CONTRACT
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-The purpose is to provide you and your client with a simple contract that clearly outlines the terms of your deal using terminology that doesn't require a law degree to understand.
 
-The original version is great, but I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing, grammar, and spelling that I would never use as an American.
+// This is a "plain language" contract template for a freelance web developer, based on the Stuff & Nonsense Ltd. Killer Contract.
 
-This edit reflects the kind of language that feels more appropriate to me. Your mileage may vary!
+// The purpose is to provide you and your client with a simple contract that clearly outlines the terms of your deal using terminology that doesn't require a law degree to understand.
 
-Please understand that I am not a lawyer and none of my text has been reviewed by a law professional.
+// The original version is great, but I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing, grammar, and spelling that I would never use as an American.
 
-If you are worried about legal liability, you should talk to a lawyer before entering into any contract.
+// This edit reflects the kind of language that feels more appropriate to me. Your mileage may vary!
 
-Hello to everyone from #100devs! I hope you find this contract useful!
+// Please understand that I am not a lawyer and none of my text has been reviewed by a law professional.
 
-If you land a client and get paid, I would highly encourage you to pay the original creators for their work.
+// If you are worried about legal liability, you should talk to a lawyer before entering into any contract.
+
+// Hello to everyone from #100devs! I hope you find this contract useful!
+
+// If you land a client and get paid, I would highly encourage you to pay the original creators for their work.
 
 The contract
 Between [company name]
